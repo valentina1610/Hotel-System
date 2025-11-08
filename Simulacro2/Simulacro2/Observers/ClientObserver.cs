@@ -10,7 +10,7 @@ namespace Simulacro2.Observers
 {
     public class ClientObserver : IBookingObserver
     {
-        public void OnConfirmedBooking(Booking booking)
+        public void OnBookingConfirmed(Booking booking)
         {
             BookingView.Print($"[NOTIFICATION FOR CLIENT]: Thanks for your reservation in our hotel, {booking.clientName}. Your {booking.typeName} reservation for {booking.total}$ is confirmed!");
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Simulacro2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c880ac6e91ccc8cd265cb198c93e918fe481fa0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48693548705ccd4e8ee8e0dd5033133d3a4d34d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Simulacro2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Simulacro2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

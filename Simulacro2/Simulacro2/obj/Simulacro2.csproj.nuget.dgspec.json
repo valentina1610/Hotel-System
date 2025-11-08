@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Simulacro2.csproj": {}
+    "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Simulacro2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Simulacro2.csproj": {
+    "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Simulacro2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Simulacro2.csproj",
+        "projectUniqueName": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Simulacro2.csproj",
         "projectName": "Simulacro2",
-        "projectPath": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Simulacro2.csproj",
+        "projectPath": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Simulacro2.csproj",
         "packagesPath": "C:\\Users\\gc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\obj\\",
+        "outputPath": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

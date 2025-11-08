@@ -3,6 +3,7 @@ using System.ComponentModel.Design;
 using Simulacro2.Builder;
 using Simulacro2.Controllers;
 using Simulacro2.Models;
+using Simulacro2.Observers;
 using Simulacro2.Repositories;
 using Simulacro2.Services;
 using Simulacro2.Views;
@@ -16,6 +17,8 @@ namespace Simulacro2
             var repo = new RepositoryJson<Booking>();
             var builder = new BookingBuilder();
             var service = new BookingService();
+            service.Suscribe(new ClientObserver());
+            service.Suscribe(new ReceptionObserver());
 
             var facade = new BookingFacade(builder, service, repo);
 

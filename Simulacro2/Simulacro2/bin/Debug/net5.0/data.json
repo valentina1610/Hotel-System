@@ -29,5 +29,44 @@
     "cell": 777,
     "total": 32.4,
     "typeName": "PremiumType"
+  },
+  {
+    "roomsList": [
+      {
+        "number": 321,
+        "price": 1,
+        "nights": 1
+      }
+    ],
+    "clientName": "a",
+    "cell": 1,
+    "total": 1.5,
+    "typeName": "SuiteType"
+  },
+  {
+    "roomsList": [
+      {
+        "number": 1,
+        "price": 1,
+        "nights": 1
+      }
+    ],
+    "clientName": "r",
+    "cell": 3,
+    "total": 1,
+    "typeName": "StandardType"
+  },
+  {
+    "roomsList": [
+      {
+        "number": 1,
+        "price": 1,
+        "nights": 1
+      }
+    ],
+    "clientName": "t",
+    "cell": 3,
+    "total": 1.2,
+    "typeName": "PremiumType"
   }
 ]

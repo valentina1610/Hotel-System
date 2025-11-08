@@ -1,73 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gc\\source\\repos\\Simulacro2\\",
+  "WorkspaceRootPath": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\simulacro2\\simulacro2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\hotel-system\\simulacro2\\simulacro2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\simulacro2\\simulacro2\\views\\bookingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\views\\bookingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\simulacro2\\simulacro2\\builder\\ibookingbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\builder\\ibookingbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\simulacro2\\simulacro2\\builder\\bookingbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\builder\\bookingbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\simulacro2\\simulacro2\\strategies\\suitetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\strategies\\suitetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\simulacro2\\simulacro2\\strategies\\premiumtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\strategies\\premiumtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\simulacro2\\simulacro2\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\simulacro2\\simulacro2\\strategies\\itypestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\strategies\\itypestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\simulacro2\\simulacro2\\strategies\\standardtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\strategies\\standardtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\simulacro2\\simulacro2\\controllers\\bookingfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\controllers\\bookingfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\simulacro2\\simulacro2\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\simulacro2\\simulacro2\\observers\\ibookingobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\observers\\ibookingobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\simulacro2\\simulacro2\\observers\\receptionobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\observers\\receptionobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\simulacro2\\simulacro2\\repositories\\repositoryjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\repositories\\repositoryjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\simulacro2\\simulacro2\\observers\\clientobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\hotel-system\\simulacro2\\simulacro2\\observers\\clientobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\observers\\clientobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\simulacro2\\simulacro2\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\hotel-system\\simulacro2\\simulacro2\\observers\\receptionobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\observers\\receptionobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\hotel-system\\simulacro2\\simulacro2\\observers\\ibookingobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\observers\\ibookingobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\hotel-system\\simulacro2\\simulacro2\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\hotel-system\\simulacro2\\simulacro2\\controllers\\bookingfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\controllers\\bookingfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\hotel-system\\simulacro2\\simulacro2\\views\\bookingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\views\\bookingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\hotel-system\\simulacro2\\simulacro2\\builder\\ibookingbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\builder\\ibookingbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\hotel-system\\simulacro2\\simulacro2\\builder\\bookingbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\builder\\bookingbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\hotel-system\\simulacro2\\simulacro2\\strategies\\suitetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\strategies\\suitetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\hotel-system\\simulacro2\\simulacro2\\strategies\\premiumtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\strategies\\premiumtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\hotel-system\\simulacro2\\simulacro2\\strategies\\itypestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\strategies\\itypestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\hotel-system\\simulacro2\\simulacro2\\strategies\\standardtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\strategies\\standardtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\hotel-system\\simulacro2\\simulacro2\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\hotel-system\\simulacro2\\simulacro2\\repositories\\repositoryjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\repositories\\repositoryjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\hotel-system\\simulacro2\\simulacro2\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\simulacro2\\simulacro2\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|c:\\users\\gc\\source\\repos\\hotel-system\\simulacro2\\simulacro2\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C47CE32F-F811-4493-91E7-1ED2D52F650D}|Simulacro2\\Simulacro2.csproj|solutionrelative:simulacro2\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -91,58 +91,35 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Program.cs",
               "RelativeDocumentMoniker": "Simulacro2\\Program.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Program.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Program.cs",
               "RelativeToolTip": "Simulacro2\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAtwDkAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwBYAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T21:51:52.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookingView.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Views\\BookingView.cs",
-              "RelativeDocumentMoniker": "Simulacro2\\Views\\BookingView.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Views\\BookingView.cs",
-              "RelativeToolTip": "Simulacro2\\Views\\BookingView.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAYwGsAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T14:04:32.796Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "BookingFacade.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Controllers\\BookingFacade.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Controllers\\BookingFacade.cs",
               "RelativeDocumentMoniker": "Simulacro2\\Controllers\\BookingFacade.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Controllers\\BookingFacade.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Controllers\\BookingFacade.cs",
               "RelativeToolTip": "Simulacro2\\Controllers\\BookingFacade.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAwwCsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwD8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T20:24:10.978Z"
+              "WhenOpened": "2025-11-07T20:24:10.978Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IBookingBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Builder\\IBookingBuilder.cs",
-              "RelativeDocumentMoniker": "Simulacro2\\Builder\\IBookingBuilder.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Builder\\IBookingBuilder.cs",
-              "RelativeToolTip": "Simulacro2\\Builder\\IBookingBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T18:46:20.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "BookingBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Builder\\BookingBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Builder\\BookingBuilder.cs",
               "RelativeDocumentMoniker": "Simulacro2\\Builder\\BookingBuilder.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Builder\\BookingBuilder.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Builder\\BookingBuilder.cs",
               "RelativeToolTip": "Simulacro2\\Builder\\BookingBuilder.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwC4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -150,11 +127,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Booking.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Models\\Booking.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Models\\Booking.cs",
               "RelativeDocumentMoniker": "Simulacro2\\Models\\Booking.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Models\\Booking.cs",
               "RelativeToolTip": "Simulacro2\\Models\\Booking.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAowBQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -162,11 +139,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "StandardType.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Strategies\\StandardType.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Strategies\\StandardType.cs",
               "RelativeDocumentMoniker": "Simulacro2\\Strategies\\StandardType.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Strategies\\StandardType.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Strategies\\StandardType.cs",
               "RelativeToolTip": "Simulacro2\\Strategies\\StandardType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -174,11 +151,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "PremiumType.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Strategies\\PremiumType.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Strategies\\PremiumType.cs",
               "RelativeDocumentMoniker": "Simulacro2\\Strategies\\PremiumType.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Strategies\\PremiumType.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Strategies\\PremiumType.cs",
               "RelativeToolTip": "Simulacro2\\Strategies\\PremiumType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -186,11 +163,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "SuiteType.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Strategies\\SuiteType.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Strategies\\SuiteType.cs",
               "RelativeDocumentMoniker": "Simulacro2\\Strategies\\SuiteType.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Strategies\\SuiteType.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Strategies\\SuiteType.cs",
               "RelativeToolTip": "Simulacro2\\Strategies\\SuiteType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -198,11 +175,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ITypeStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Strategies\\ITypeStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Strategies\\ITypeStrategy.cs",
               "RelativeDocumentMoniker": "Simulacro2\\Strategies\\ITypeStrategy.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Strategies\\ITypeStrategy.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Strategies\\ITypeStrategy.cs",
               "RelativeToolTip": "Simulacro2\\Strategies\\ITypeStrategy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -210,47 +187,87 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "BookingService.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Services\\BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Services\\BookingService.cs",
               "RelativeDocumentMoniker": "Simulacro2\\Services\\BookingService.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Services\\BookingService.cs",
               "RelativeToolTip": "Simulacro2\\Services\\BookingService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwCQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T13:47:05.571Z"
+              "WhenOpened": "2025-11-08T13:47:05.571Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "ReceptionObserver.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Observers\\ReceptionObserver.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Observers\\ReceptionObserver.cs",
               "RelativeDocumentMoniker": "Simulacro2\\Observers\\ReceptionObserver.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Observers\\ReceptionObserver.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Observers\\ReceptionObserver.cs",
               "RelativeToolTip": "Simulacro2\\Observers\\ReceptionObserver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T20:24:13.02Z"
+              "WhenOpened": "2025-11-07T20:24:13.02Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "IBookingObserver.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Observers\\IBookingObserver.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Observers\\IBookingObserver.cs",
               "RelativeDocumentMoniker": "Simulacro2\\Observers\\IBookingObserver.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Observers\\IBookingObserver.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Observers\\IBookingObserver.cs",
               "RelativeToolTip": "Simulacro2\\Observers\\IBookingObserver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T13:10:19.664Z"
+              "WhenOpened": "2025-11-08T13:10:19.664Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
+              "Title": "ClientObserver.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Observers\\ClientObserver.cs",
+              "RelativeDocumentMoniker": "Simulacro2\\Observers\\ClientObserver.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Observers\\ClientObserver.cs",
+              "RelativeToolTip": "Simulacro2\\Observers\\ClientObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T13:08:26.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookingBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Builder\\IBookingBuilder.cs",
+              "RelativeDocumentMoniker": "Simulacro2\\Builder\\IBookingBuilder.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Builder\\IBookingBuilder.cs",
+              "RelativeToolTip": "Simulacro2\\Builder\\IBookingBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T18:46:20.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingView.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Views\\BookingView.cs",
+              "RelativeDocumentMoniker": "Simulacro2\\Views\\BookingView.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Views\\BookingView.cs",
+              "RelativeToolTip": "Simulacro2\\Views\\BookingView.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAYwGsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T14:04:32.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "RepositoryJson.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Repositories\\RepositoryJson.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Repositories\\RepositoryJson.cs",
               "RelativeDocumentMoniker": "Simulacro2\\Repositories\\RepositoryJson.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Repositories\\RepositoryJson.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Repositories\\RepositoryJson.cs",
               "RelativeToolTip": "Simulacro2\\Repositories\\RepositoryJson.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -258,23 +275,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ClientObserver.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Observers\\ClientObserver.cs",
-              "RelativeDocumentMoniker": "Simulacro2\\Observers\\ClientObserver.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Observers\\ClientObserver.cs",
-              "RelativeToolTip": "Simulacro2\\Observers\\ClientObserver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T13:08:26.064Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 15,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Repositories\\IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "Simulacro2\\Repositories\\IRepository.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Repositories\\IRepository.cs",
               "RelativeToolTip": "Simulacro2\\Repositories\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -284,9 +289,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Room.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Models\\Room.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Models\\Room.cs",
               "RelativeDocumentMoniker": "Simulacro2\\Models\\Room.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\Simulacro2\\Simulacro2\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Hotel-System\\Simulacro2\\Simulacro2\\Models\\Room.cs",
               "RelativeToolTip": "Simulacro2\\Models\\Room.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -297,9 +302,9 @@
               "DocumentIndex": 17,
               "Title": "Microsoft.NET.EolTargetFrameworks.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
               "ViewState": "AgIAAAsAAAAAAAAAAAD4vx8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2025-11-07T21:50:52.966Z"

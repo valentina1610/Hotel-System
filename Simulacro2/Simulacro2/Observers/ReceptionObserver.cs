@@ -8,9 +8,9 @@ using Simulacro2.Views;
 
 namespace Simulacro2.Observers
 {
-    public class ReceptionObserver
+    public class ReceptionObserver : IBookingObserver
     {
-        public void OnConfirmedBooking(Booking booking)
+        public void OnBookingConfirmed(Booking booking)
         {
             BookingView.Print("[NOTIFICATION FOR RECEPTION]: New booking confirmed for these rooms:");
             foreach (var r in booking.roomsList)
