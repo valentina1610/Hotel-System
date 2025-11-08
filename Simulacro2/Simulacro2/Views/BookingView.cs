@@ -18,34 +18,18 @@ namespace Simulacro2.Views
         {
             Console.Clear();
             Print("Enter client name: ");
-            string clientName = Console.ReadLine();
-            while (string.IsNullOrWhiteSpace(clientName))
-            {
-                Print("[ERROR]: Name required, try again!");
-                clientName = Console.ReadLine();
-            }
+            string clientName = GetValidInput();
 
             Print("Enter the client's cellphone: ");
-            int cell;
-            while(!int.TryParse(Console.ReadLine(), out cell)|| cell <= 0)
-            {
-                Print("[ERROR]: Invalid Cellphone, try again!");
-                cell = int.Parse(Console.ReadLine());
-            }
+            int cell = int.Parse(GetValidInput(true));
+
             return (clientName, cell);
         }
 
         public static string AddRoomType()
         {
             Print("Enter room type for the booking (Standard / Premium / Suite): ");
-            string type = (Console.ReadLine() ?? "").ToLower();
-
-            while (type != "standard" && type != "premium" && type != "suite")
-            {
-                Print("[ERROR]: Wrong type, try again! (Standard / Premium / Suite)");
-                type = (Console.ReadLine() ?? "").Trim().ToLower();
-            }
-
+            string type = GetValidInput(false,false,true).ToLower();
             return type;
         }
 
@@ -59,40 +43,22 @@ namespace Simulacro2.Views
             {
                 // Número de habitación
                 Print("Enter room number: ");
-                int number;
-                while (!int.TryParse(Console.ReadLine(), out number) || number <= 0)
-                {
-                    Print("[ERROR]: Enter a valid room number, try again!");
-                }
+                int number = int.Parse(GetValidInput(true));
 
                 // Precio por noche
                 Print("Enter price per night: ");
-                double price;
-                while (!double.TryParse(Console.ReadLine(), out price) || price <= 0)
-                {
-                    Print("[ERROR]: Enter a valid price, try again!");
-                }
+                double price = double.Parse(GetValidInput(true));
 
                 // Cantidad de noches
                 Print("Enter number of nights: ");
-                int nights;
-                while (!int.TryParse(Console.ReadLine(), out nights) || nights <= 0)
-                {
-                    Print("[ERROR]: Enter a valid number of nights, try again!");
-                }
+                int nights = int.Parse(GetValidInput(true));
 
                 // Agregar habitación a la lista
                 rooms.Add(new Room(number, price, nights));
 
                 // Preguntar si quiere agregar otra habitación
                 Print("Add another room? (y/n): ");
-                string more = (Console.ReadLine() ?? "").ToLower();
-                while (more != "y" && more != "n")
-                {
-                    Print("[ERROR]: Wrong input, try again! (y/n)");
-                    more = (Console.ReadLine() ?? "").Trim().ToLower();
-                }
-
+                string more = GetValidInput(false,true).ToLower();
                 if (more == "n")
                     adding = false;
                 else
@@ -116,6 +82,37 @@ namespace Simulacro2.Views
 
             Console.WriteLine($"Final Price: ${booking.total}");
             Console.WriteLine("---------------------------\n");
+        }
+
+        public static string GetValidInput(bool isNumeric = false, bool isYorN = false, bool isRoomType = false)
+        {
+            string input;
+            bool valid = false;
+            do
+            {
+                input = Console.ReadLine();
+                if (isNumeric && !isYorN && !isRoomType && double.TryParse(input, out double _) && !string.IsNullOrEmpty(input))
+                {
+                    valid = true;
+                }
+                else if (!isNumeric && isYorN && !isRoomType && ((input.Contains("y") || (input.Contains("n")))) && !string.IsNullOrEmpty(input))
+                {
+                    valid = true;
+                }
+                else if (!isNumeric && !isYorN && !isRoomType && !string.IsNullOrEmpty(input))
+                {
+                    valid = true;
+                }
+                else if (!isNumeric && !isYorN && isRoomType && ((input.Contains("standard") || (input.Contains("premium")) || (input.Contains("suite"))) && !string.IsNullOrEmpty(input)))
+                {
+                    valid = true;
+                }
+                else
+                {
+                    Print("[ERROR]: invalid input, please try again!");
+                }
+            } while (!valid);
+            return input;
         }
 
         public static void Print(string msj)

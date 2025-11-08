@@ -37,8 +37,6 @@ namespace Simulacro2.Repositories
 
             return JsonSerializer.Deserialize<List<T>>(json) ?? new List<T>(); // DESERIALIZAR: convertimos el texto JSON a List<T>.
                                                                                // Si por alguna razón la deserialización devuelve null, usamos '??' para devolver una lista vacía.
-
-
         }
     }
 }
