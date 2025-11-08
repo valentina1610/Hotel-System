@@ -1,0 +1,33 @@
+[
+  {
+    "roomsList": [
+      {
+        "number": 1,
+        "price": 3000,
+        "nights": 1
+      }
+    ],
+    "clientName": "p",
+    "cell": 123,
+    "total": 3000,
+    "typeName": "StandardType"
+  },
+  {
+    "roomsList": [
+      {
+        "number": 55,
+        "price": 1,
+        "nights": 2
+      },
+      {
+        "number": 77,
+        "price": 5,
+        "nights": 5
+      }
+    ],
+    "clientName": "o",
+    "cell": 777,
+    "total": 32.4,
+    "typeName": "PremiumType"
+  }
+]

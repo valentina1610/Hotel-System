@@ -1,0 +1,16 @@
+C:\Users\gc\source\repos\Simulacro2\Simulacro2\obj\Debug\net5.0\Simulacro2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gc\source\repos\Simulacro2\Simulacro2\obj\Debug\net5.0\Simulacro2.AssemblyInfoInputs.cache
+C:\Users\gc\source\repos\Simulacro2\Simulacro2\obj\Debug\net5.0\Simulacro2.AssemblyInfo.cs
+C:\Users\gc\source\repos\Simulacro2\Simulacro2\obj\Debug\net5.0\Simulacro2.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\Simulacro2\Simulacro2\obj\Debug\net5.0\Simulacro2.sourcelink.json
+C:\Users\gc\source\repos\Simulacro2\Simulacro2\bin\Debug\net5.0\Simulacro2.exe
+C:\Users\gc\source\repos\Simulacro2\Simulacro2\bin\Debug\net5.0\Simulacro2.deps.json
+C:\Users\gc\source\repos\Simulacro2\Simulacro2\bin\Debug\net5.0\Simulacro2.runtimeconfig.json
+C:\Users\gc\source\repos\Simulacro2\Simulacro2\bin\Debug\net5.0\Simulacro2.runtimeconfig.dev.json
+C:\Users\gc\source\repos\Simulacro2\Simulacro2\bin\Debug\net5.0\Simulacro2.dll
+C:\Users\gc\source\repos\Simulacro2\Simulacro2\bin\Debug\net5.0\Simulacro2.pdb
+C:\Users\gc\source\repos\Simulacro2\Simulacro2\obj\Debug\net5.0\Simulacro2.dll
+C:\Users\gc\source\repos\Simulacro2\Simulacro2\obj\Debug\net5.0\refint\Simulacro2.dll
+C:\Users\gc\source\repos\Simulacro2\Simulacro2\obj\Debug\net5.0\Simulacro2.pdb
+C:\Users\gc\source\repos\Simulacro2\Simulacro2\obj\Debug\net5.0\Simulacro2.genruntimeconfig.cache
+C:\Users\gc\source\repos\Simulacro2\Simulacro2\obj\Debug\net5.0\ref\Simulacro2.dll
