@@ -13,29 +13,21 @@ namespace Simulacro2.Services
 {
     public class BookingService
     {
-        private readonly List<IBookingObserver> _observersList = new();
-
-        public void Suscribe(IBookingObserver observer) => _observersList.Add(observer);
-        public void Unsuscribe(IBookingObserver observer) => _observersList.Remove(observer);
+        private readonly List<IBookingObserver> _obsList = new();
+        public void Suscribe(IBookingObserver obs) => _obsList.Add(obs);
+        public void Unsuscribe(IBookingObserver obs) => _obsList.Remove(obs);
 
         public void Confirm(Booking booking)
         {
             Notify(booking);
         }
-
         public void Notify(Booking booking)
         {
-            foreach (var o in _observersList)
+            foreach (var o in _obsList)
             {
-                try
-                {
-                    o.OnBookingConfirmed(booking);
-                }
-                catch (Exception ex)
-                {
-                    BookingView.Print($"[ERROR]: Notify error: {ex.Message}");
-                }
+                o.OnBookingConfirmed(booking);
             }
         }
+        
     }
 }

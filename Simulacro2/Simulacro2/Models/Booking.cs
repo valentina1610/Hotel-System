@@ -42,7 +42,6 @@ namespace Simulacro2.Models
         {
             double subtotal = CalculateSubtotal();
             total = typeCostStrategy != null ? typeCostStrategy.CalculateCost(subtotal) : subtotal;
-            typeName = typeCostStrategy?.GetType().Name ?? "Standard";
         }
     }
 }

@@ -81,5 +81,75 @@
     "cell": 2,
     "total": 35,
     "typeName": "StandardType"
+  },
+  {
+    "roomsList": [
+      {
+        "number": 1,
+        "price": 3,
+        "nights": 2
+      }
+    ],
+    "clientName": "a",
+    "cell": 1,
+    "total": 9,
+    "typeName": "Suite"
+  },
+  {
+    "roomsList": [
+      {
+        "number": 2,
+        "price": 1,
+        "nights": 1
+      },
+      {
+        "number": 1,
+        "price": 1,
+        "nights": 1
+      }
+    ],
+    "clientName": "a",
+    "cell": 1,
+    "total": 2,
+    "typeName": "Standard"
+  },
+  {
+    "roomsList": [
+      {
+        "number": 1,
+        "price": 1,
+        "nights": 1
+      }
+    ],
+    "clientName": "a",
+    "cell": 1,
+    "total": 1,
+    "typeName": "Standard"
+  },
+  {
+    "roomsList": [
+      {
+        "number": 1,
+        "price": 1,
+        "nights": 1
+      }
+    ],
+    "clientName": "a",
+    "cell": 1,
+    "total": 1,
+    "typeName": "Standard"
+  },
+  {
+    "roomsList": [
+      {
+        "number": 9,
+        "price": 1,
+        "nights": 1
+      }
+    ],
+    "clientName": "a",
+    "cell": 1,
+    "total": 1.2,
+    "typeName": "Premium"
   }
 ]

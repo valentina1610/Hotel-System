@@ -25,44 +25,49 @@ namespace Simulacro2.Controllers
             this._repo = _repo;
         }
 
-        public void SetClient(string clientName, int cell)
+        public void SetClient(string client, int cell)
         {
-            _builder.SetClient(clientName, cell);
+            _builder.SetClient(client,cell);
         }
-
-        public void AddRoom(int number, double price, int nights)
+        public void SetRooms(List<Room> listRooms)
         {
-            _builder.AddRoom(number, price, nights);
-        }
-        public void SetTypeRoom(string type)
-        {
-            ITypeStrategy strategy = null;
-            switch (type.ToLower())
+            foreach(var r in listRooms)
             {
-                case "standard":
-                    {
-                        strategy = new StandardType();
-                        break;
-                    }
+                _builder.AddRoom(r.number, r.price, r.nights);
+            }
+        }
+        public void SetTypeCost(string type)
+        {
+            ITypeStrategy typeStrategy = null;
+            switch(type)
+            {
                 case "premium":
                     {
-                        strategy = new PremiumType();
+                        typeStrategy = new PremiumType();
+                        break;
+                    }
+                case "standard":
+                    {
+                        typeStrategy = new StandardType();
                         break;
                     }
                 case "suite":
                     {
-                        strategy = new SuiteType();
+                        typeStrategy = new SuiteType();
                         break;
                     }
             }
-            _builder.SetTypeRoom(strategy);
+            _builder.SetTypeRoom(typeStrategy);
         }
 
         public void ConfirmBooking()
         {
             var booking = _builder.Build();
-            _service.Confirm(booking);
+            _service.Notify(booking);
             _repo.Save(booking);
+
+            _builder.Reset();
         }
+
     }
 }

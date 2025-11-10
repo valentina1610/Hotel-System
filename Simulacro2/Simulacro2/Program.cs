@@ -44,16 +44,17 @@ namespace Simulacro2
 
                                 //----- TYPE OF THE ROOM -----
                                 string type = BookingView.AddRoomType();
-                                facade.SetTypeRoom(type);
+                                facade.SetTypeCost(type);
 
                                 //----ADD ROOM----
                                 var rooms = BookingView.AddRooms();
-                                foreach (var r in rooms)
-                                {
-                                    facade.AddRoom(r.number, r.price, r.nights);
-                                }
+                                facade.SetRooms(rooms);
+
                                 //---- CONFIRM ORDER -----
                                 facade.ConfirmBooking();
+                                BookingView.Print("Press any key to go back to menu.");
+                                Console.ReadKey();
+                                Console.Clear();
                                 break;
                             }
                         case "2":
@@ -64,6 +65,9 @@ namespace Simulacro2
                                 {
                                     BookingView.ShowBooking(b);
                                 }
+                                BookingView.Print("Press any key to go back to menu");
+                                Console.ReadKey();
+                                Console.Clear();
                                 break;
                             }
                         case "3":

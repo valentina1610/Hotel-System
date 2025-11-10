@@ -14,7 +14,14 @@ namespace Simulacro2.Builder
         private Booking _booking;
         public BookingBuilder()
         {
-            _booking = new Booking
+            _booking = new Booking()
+            {
+                roomsList = new List<Room>()
+            };
+        }
+        public void Reset()
+        {
+            _booking = new Booking()
             {
                 roomsList = new List<Room>()
             };
@@ -26,25 +33,23 @@ namespace Simulacro2.Builder
         }
         public void AddRoom(int number, double price, int nights)
         {
-            _booking.roomsList.Add(new Room(number, price, nights));
+            _booking.roomsList.Add(new Room(number,price,nights));
         }
-        public void SetTypeRoom(ITypeStrategy type)
+        public void SetTypeRoom(ITypeStrategy typeCostStrategy)
         {
-            _booking.typeCostStrategy = type;
-            if (type is PremiumType)
-                _booking.typeName= "Premium";
-            else if (type is StandardType)
+            _booking.typeCostStrategy = typeCostStrategy;
+            if (typeCostStrategy is PremiumType)
+                _booking.typeName = "Premium";
+            if (typeCostStrategy is StandardType)
                 _booking.typeName = "Standard";
-            else if (type is SuiteType)
+            if (typeCostStrategy is SuiteType)
                 _booking.typeName = "Suite";
         }
-
         public Booking Build()
         {
-            if (_booking.roomsList.Count == 0) BookingView.Print("[ERROR]: DEBE AGREGAR AL MENOS 1 HABITACION");
-            if (string.IsNullOrWhiteSpace(_booking.clientName)) BookingView.Print("DEBE AGREGAR UN CLIENTE");
             _booking.CalculateTotal();
             return _booking;
         }
+
     }
 }

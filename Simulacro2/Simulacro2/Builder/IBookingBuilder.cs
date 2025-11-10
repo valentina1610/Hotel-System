@@ -13,6 +13,7 @@ namespace Simulacro2.Builder
         void SetClient(string clientName, int cell); //DATOS DE EL CLIENTE
         void AddRoom(int number, double price, int nights); //AGREGA UNA HABITACION
         void SetTypeRoom(ITypeStrategy type); //DEFINE EL TIPO DE COSTO DE LA HABITACION
+        void Reset(); //RESETEA EL BUILDER PARA QUE NO SE ACUMULEN COSAS
         Booking Build();
     }
 }

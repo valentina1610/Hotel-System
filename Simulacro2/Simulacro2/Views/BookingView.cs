@@ -23,13 +23,19 @@ namespace Simulacro2.Views
             Print("Enter the client's cellphone: ");
             int cell = int.Parse(GetValidInput(true));
 
+            Print("Press any key to continue");
+            Console.ReadKey();
             return (clientName, cell);
         }
 
         public static string AddRoomType()
         {
+            Console.Clear();
             Print("Enter room type for the booking (Standard / Premium / Suite): ");
             string type = GetValidInput(false,false,true).ToLower();
+
+            Print("Press any key to continue");
+            Console.ReadKey();
             return type;
         }
 
@@ -64,24 +70,26 @@ namespace Simulacro2.Views
                 else
                     adding = true;
             }
-
+            Print("Press any key to continue");
+            Console.ReadKey();
+            Console.Clear();
             return rooms;
         }
 
         public static void ShowBooking(Booking booking)
         {
-            Console.WriteLine("----- BOOKING DETAILS -----");
-            Console.WriteLine($"Client: {booking.clientName} - Cellphone: {booking.cell}");
-            Console.WriteLine($"Room Type: {booking.typeName}");
-            Console.WriteLine("Rooms:");
+            Console.WriteLine("| ---------- BOOKING DETAILS ------------ |");
+            Console.WriteLine($"| Client: {booking.clientName} - Cellphone: {booking.cell}");
+            Console.WriteLine($"| Room Type: {booking.typeName}");
+            Console.WriteLine("| Rooms:");
 
             foreach (var room in booking.roomsList)
             {
-                Console.WriteLine($"Room {room.number} - ${room.price} x {room.nights} nights = ${room.Subtotal()}");
+                Console.WriteLine($"| Room {room.number} - ${room.price} x {room.nights} nights = ${room.Subtotal()}");
             }
 
-            Console.WriteLine($"Final Price: ${booking.total}");
-            Console.WriteLine("---------------------------\n");
+            Console.WriteLine($"| Final Price: ${booking.total}");
+            Console.WriteLine("-------------------------------------------\n");
         }
 
         public static string GetValidInput(bool isNumeric = false, bool isYorN = false, bool isRoomType = false)
@@ -90,12 +98,12 @@ namespace Simulacro2.Views
             bool valid = false;
             do
             {
-                input = Console.ReadLine();
+                input = Console.ReadLine().ToLower();
                 if (isNumeric && !isYorN && !isRoomType && double.TryParse(input, out double _) && !string.IsNullOrEmpty(input))
                 {
                     valid = true;
                 }
-                else if (!isNumeric && isYorN && !isRoomType && ((input.Contains("y") || (input.Contains("n")))) && !string.IsNullOrEmpty(input))
+                else if (!isNumeric && isYorN && !isRoomType && (input =="y") || (input == "n") && !string.IsNullOrEmpty(input))
                 {
                     valid = true;
                 }
@@ -103,7 +111,7 @@ namespace Simulacro2.Views
                 {
                     valid = true;
                 }
-                else if (!isNumeric && !isYorN && isRoomType && ((input.Contains("standard") || (input.Contains("premium")) || (input.Contains("suite"))) && !string.IsNullOrEmpty(input)))
+                else if (!isNumeric && !isYorN && isRoomType && (input == "standard") || (input == "premium") || (input == "suite") && !string.IsNullOrEmpty(input))
                 {
                     valid = true;
                 }
